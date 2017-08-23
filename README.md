@@ -1,2 +1,2 @@
-# gulp-automation-template
+# Gulp Template
 Easy way to start a project
